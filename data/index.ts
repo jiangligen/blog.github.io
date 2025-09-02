@@ -13,18 +13,18 @@ export const footerData = {
 }
 
 export const homePage = {
-  title: 'Welcome To My Blog Site',
+  title: '欢迎访问我的博客',
   description:
     'Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
 }
 
 export const blogsPage = {
-  title: 'All Blogs',
+  title: '所有文章',
   description: 'Here you will find all the blog posts I have written & published on this site.',
 }
 
 export const categoryPage = {
-  title: 'Categories',
+  title: '分类',
   description:
     'Blow this category is generated from all the tags are mentioned in the different blog post',
 }
@@ -37,8 +37,8 @@ export const aboutPage = {
 }
 
 export const seoData = {
-  title: `Riyad's Blog | Riyads Blog`,
-  ogTitle: `Let's learn Javascript, Typescript, Vue, Nuxt, & Problem Solving - Riyads Blog | Riyad's Blog`,
+  title: `HanHan's Blog`,
+  ogTitle: `Let's learn Javascript, Typescript, Vue, Nuxt, & Problem Solving - HanHan's Blog`,
   description: `Hi I am Riyad. A Software Engineer at FieldNation, with over 3.5+ years experience in software development. - Riyads Blog | Riyad's Blog`,
   twitterDescription: `Riyad's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Riyads Blog | Riyad's Blog`,
   image:
