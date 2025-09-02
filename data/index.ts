@@ -5,7 +5,7 @@ export const navbarData = {
 export const footerData = {
   author: 'HanHan',
   aboutAuthor:
-    'Hi! 我是憨憨, 这是一个测试博客, 如果你发现了bug，说明这个博客还在测试中。',
+    'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at FieldNation LLC.',
   authorInterest:
     "I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let's connect.",
   aboutTheSite:
@@ -13,18 +13,18 @@ export const footerData = {
 }
 
 export const homePage = {
-  title: '欢迎访问我的博客',
+  title: 'Welcome To My Blog Site',
   description:
     'Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
 }
 
 export const blogsPage = {
-  title: '所有文章',
+  title: 'All Blogs',
   description: 'Here you will find all the blog posts I have written & published on this site.',
 }
 
 export const categoryPage = {
-  title: '分类',
+  title: 'Categories',
   description:
     'Blow this category is generated from all the tags are mentioned in the different blog post',
 }
